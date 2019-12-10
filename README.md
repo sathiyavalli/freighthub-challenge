@@ -1,3 +1,4 @@
+Work will run on this Path: http://localhost:3000/App. So in /App the result will come.
 FreightHub Frontend Coding Challenge
 Welcome to the FreightHub frontend coding challenge! Please read the following instructions carefully.
 
