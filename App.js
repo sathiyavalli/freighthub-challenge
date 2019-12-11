@@ -33,7 +33,7 @@ class App extends React.Component {
 }
 /*retreiving the value from github json file*/
  componentDidMount(){
-  let url = "https://my-json-server.typicode.com/sathiyavalli/frontend-frieghtChallenge/datas"
+  let url = "https://my-json-server.typicode.com/sathiyavalli/restdata/datas"
   fetch(url)
     .then(res => res.json())
     .then((data) => {
